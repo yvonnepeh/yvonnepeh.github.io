@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+##Hi, I'm Yvonne!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Programming . Music . Food . Travel 
 
-What else do you need?
+Currently, I am pursuing a Double Master's degree programme in Data Science under the EIT Digital Programme. Previously, I was a risk analyst at an international bank where I had experience with building various risk models.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Learning is a lifelong journey and I would like to share my learning journey with you!
+Feel free to explore my [POSTS](https://yvonnepeh.github.io/posts/) and [Projects] (https://yvonnepeh.github.io/projects/). A foodie, you are able to see my food reviews at @simplyfoodaffair on Instagram! 
